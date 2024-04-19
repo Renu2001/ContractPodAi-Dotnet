@@ -12,3 +12,4 @@ D:\BridgeLabz Dotnet\BasicConcept\obj\Debug\net7.0\refint\BasicConcept.dll
 D:\BridgeLabz Dotnet\BasicConcept\obj\Debug\net7.0\BasicConcept.pdb
 D:\BridgeLabz Dotnet\BasicConcept\obj\Debug\net7.0\BasicConcept.genruntimeconfig.cache
 D:\BridgeLabz Dotnet\BasicConcept\obj\Debug\net7.0\ref\BasicConcept.dll
+D:\BridgeLabz Dotnet\BasicConcept\obj\Debug\net7.0\BasicConcept.sourcelink.json
