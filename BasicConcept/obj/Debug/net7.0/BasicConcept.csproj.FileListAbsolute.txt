@@ -1,0 +1,14 @@
+D:\BridgeLabz Dotnet\BasicConcept\bin\Debug\net7.0\BasicConcept.exe
+D:\BridgeLabz Dotnet\BasicConcept\bin\Debug\net7.0\BasicConcept.deps.json
+D:\BridgeLabz Dotnet\BasicConcept\bin\Debug\net7.0\BasicConcept.runtimeconfig.json
+D:\BridgeLabz Dotnet\BasicConcept\bin\Debug\net7.0\BasicConcept.dll
+D:\BridgeLabz Dotnet\BasicConcept\bin\Debug\net7.0\BasicConcept.pdb
+D:\BridgeLabz Dotnet\BasicConcept\obj\Debug\net7.0\BasicConcept.GeneratedMSBuildEditorConfig.editorconfig
+D:\BridgeLabz Dotnet\BasicConcept\obj\Debug\net7.0\BasicConcept.AssemblyInfoInputs.cache
+D:\BridgeLabz Dotnet\BasicConcept\obj\Debug\net7.0\BasicConcept.AssemblyInfo.cs
+D:\BridgeLabz Dotnet\BasicConcept\obj\Debug\net7.0\BasicConcept.csproj.CoreCompileInputs.cache
+D:\BridgeLabz Dotnet\BasicConcept\obj\Debug\net7.0\BasicConcept.dll
+D:\BridgeLabz Dotnet\BasicConcept\obj\Debug\net7.0\refint\BasicConcept.dll
+D:\BridgeLabz Dotnet\BasicConcept\obj\Debug\net7.0\BasicConcept.pdb
+D:\BridgeLabz Dotnet\BasicConcept\obj\Debug\net7.0\BasicConcept.genruntimeconfig.cache
+D:\BridgeLabz Dotnet\BasicConcept\obj\Debug\net7.0\ref\BasicConcept.dll
