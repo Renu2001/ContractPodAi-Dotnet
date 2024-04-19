@@ -1,0 +1,15 @@
+D:\BridgeLabz Dotnet\Line_Comparison_Problem\bin\Debug\net7.0\Line_Comparison_Problem.exe
+D:\BridgeLabz Dotnet\Line_Comparison_Problem\bin\Debug\net7.0\Line_Comparison_Problem.deps.json
+D:\BridgeLabz Dotnet\Line_Comparison_Problem\bin\Debug\net7.0\Line_Comparison_Problem.runtimeconfig.json
+D:\BridgeLabz Dotnet\Line_Comparison_Problem\bin\Debug\net7.0\Line_Comparison_Problem.dll
+D:\BridgeLabz Dotnet\Line_Comparison_Problem\bin\Debug\net7.0\Line_Comparison_Problem.pdb
+D:\BridgeLabz Dotnet\Line_Comparison_Problem\obj\Debug\net7.0\Line_Comparison_Problem.GeneratedMSBuildEditorConfig.editorconfig
+D:\BridgeLabz Dotnet\Line_Comparison_Problem\obj\Debug\net7.0\Line_Comparison_Problem.AssemblyInfoInputs.cache
+D:\BridgeLabz Dotnet\Line_Comparison_Problem\obj\Debug\net7.0\Line_Comparison_Problem.AssemblyInfo.cs
+D:\BridgeLabz Dotnet\Line_Comparison_Problem\obj\Debug\net7.0\Line_Comparison_Problem.csproj.CoreCompileInputs.cache
+D:\BridgeLabz Dotnet\Line_Comparison_Problem\obj\Debug\net7.0\Line_Comparison_Problem.sourcelink.json
+D:\BridgeLabz Dotnet\Line_Comparison_Problem\obj\Debug\net7.0\Line_Comparison_Problem.dll
+D:\BridgeLabz Dotnet\Line_Comparison_Problem\obj\Debug\net7.0\refint\Line_Comparison_Problem.dll
+D:\BridgeLabz Dotnet\Line_Comparison_Problem\obj\Debug\net7.0\Line_Comparison_Problem.pdb
+D:\BridgeLabz Dotnet\Line_Comparison_Problem\obj\Debug\net7.0\Line_Comparison_Problem.genruntimeconfig.cache
+D:\BridgeLabz Dotnet\Line_Comparison_Problem\obj\Debug\net7.0\ref\Line_Comparison_Problem.dll
