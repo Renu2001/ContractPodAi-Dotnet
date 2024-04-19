@@ -23,7 +23,7 @@
             int a = no * 2;
             return a;
         }
-
+        //two parameterized method
         public string FullName(string fname,string lname)
         {
             string fullname = fname +" " + lname;
