@@ -1,0 +1,5 @@
+D:\BridgeLabz Dotnet\SOLID\obj\Debug\net6.0\SOLID.GeneratedMSBuildEditorConfig.editorconfig
+D:\BridgeLabz Dotnet\SOLID\obj\Debug\net6.0\SOLID.AssemblyInfoInputs.cache
+D:\BridgeLabz Dotnet\SOLID\obj\Debug\net6.0\SOLID.AssemblyInfo.cs
+D:\BridgeLabz Dotnet\SOLID\obj\Debug\net6.0\SOLID.csproj.CoreCompileInputs.cache
+D:\BridgeLabz Dotnet\SOLID\obj\Debug\net6.0\SOLID.sourcelink.json

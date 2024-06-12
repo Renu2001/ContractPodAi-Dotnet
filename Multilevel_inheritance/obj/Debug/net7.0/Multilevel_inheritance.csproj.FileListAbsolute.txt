@@ -1,0 +1,15 @@
+D:\BridgeLabz Dotnet\Multilevel_inheritance\bin\Debug\net7.0\Multilevel_inheritance.exe
+D:\BridgeLabz Dotnet\Multilevel_inheritance\bin\Debug\net7.0\Multilevel_inheritance.deps.json
+D:\BridgeLabz Dotnet\Multilevel_inheritance\bin\Debug\net7.0\Multilevel_inheritance.runtimeconfig.json
+D:\BridgeLabz Dotnet\Multilevel_inheritance\bin\Debug\net7.0\Multilevel_inheritance.dll
+D:\BridgeLabz Dotnet\Multilevel_inheritance\bin\Debug\net7.0\Multilevel_inheritance.pdb
+D:\BridgeLabz Dotnet\Multilevel_inheritance\obj\Debug\net7.0\Multilevel_inheritance.GeneratedMSBuildEditorConfig.editorconfig
+D:\BridgeLabz Dotnet\Multilevel_inheritance\obj\Debug\net7.0\Multilevel_inheritance.AssemblyInfoInputs.cache
+D:\BridgeLabz Dotnet\Multilevel_inheritance\obj\Debug\net7.0\Multilevel_inheritance.AssemblyInfo.cs
+D:\BridgeLabz Dotnet\Multilevel_inheritance\obj\Debug\net7.0\Multilevel_inheritance.csproj.CoreCompileInputs.cache
+D:\BridgeLabz Dotnet\Multilevel_inheritance\obj\Debug\net7.0\Multilevel_inheritance.sourcelink.json
+D:\BridgeLabz Dotnet\Multilevel_inheritance\obj\Debug\net7.0\Multilevel_inheritance.dll
+D:\BridgeLabz Dotnet\Multilevel_inheritance\obj\Debug\net7.0\refint\Multilevel_inheritance.dll
+D:\BridgeLabz Dotnet\Multilevel_inheritance\obj\Debug\net7.0\Multilevel_inheritance.pdb
+D:\BridgeLabz Dotnet\Multilevel_inheritance\obj\Debug\net7.0\Multilevel_inheritance.genruntimeconfig.cache
+D:\BridgeLabz Dotnet\Multilevel_inheritance\obj\Debug\net7.0\ref\Multilevel_inheritance.dll

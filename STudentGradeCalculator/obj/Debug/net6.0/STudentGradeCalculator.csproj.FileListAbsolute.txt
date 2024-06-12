@@ -1,0 +1,15 @@
+D:\BridgeLabz Dotnet\STudentGradeCalculator\bin\Debug\net6.0\STudentGradeCalculator.exe
+D:\BridgeLabz Dotnet\STudentGradeCalculator\bin\Debug\net6.0\STudentGradeCalculator.deps.json
+D:\BridgeLabz Dotnet\STudentGradeCalculator\bin\Debug\net6.0\STudentGradeCalculator.runtimeconfig.json
+D:\BridgeLabz Dotnet\STudentGradeCalculator\bin\Debug\net6.0\STudentGradeCalculator.dll
+D:\BridgeLabz Dotnet\STudentGradeCalculator\bin\Debug\net6.0\STudentGradeCalculator.pdb
+D:\BridgeLabz Dotnet\STudentGradeCalculator\obj\Debug\net6.0\STudentGradeCalculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\BridgeLabz Dotnet\STudentGradeCalculator\obj\Debug\net6.0\STudentGradeCalculator.AssemblyInfoInputs.cache
+D:\BridgeLabz Dotnet\STudentGradeCalculator\obj\Debug\net6.0\STudentGradeCalculator.AssemblyInfo.cs
+D:\BridgeLabz Dotnet\STudentGradeCalculator\obj\Debug\net6.0\STudentGradeCalculator.csproj.CoreCompileInputs.cache
+D:\BridgeLabz Dotnet\STudentGradeCalculator\obj\Debug\net6.0\STudentGradeCalculator.sourcelink.json
+D:\BridgeLabz Dotnet\STudentGradeCalculator\obj\Debug\net6.0\STudentGradeCalculator.dll
+D:\BridgeLabz Dotnet\STudentGradeCalculator\obj\Debug\net6.0\refint\STudentGradeCalculator.dll
+D:\BridgeLabz Dotnet\STudentGradeCalculator\obj\Debug\net6.0\STudentGradeCalculator.pdb
+D:\BridgeLabz Dotnet\STudentGradeCalculator\obj\Debug\net6.0\STudentGradeCalculator.genruntimeconfig.cache
+D:\BridgeLabz Dotnet\STudentGradeCalculator\obj\Debug\net6.0\ref\STudentGradeCalculator.dll
